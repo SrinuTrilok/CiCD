@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo services nginx start 
+sudo service nginx start 
